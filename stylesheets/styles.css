@@ -32,9 +32,7 @@ section {
 }
 
 
-/*----------------------------
-    Two column layout stuff
-  ---------------------------*/
+/* Three column layout */
 /* Main Section Headings and sub headings */
 article .begin-examples ~ h2,
 article .begin-examples ~ h2 + p {
@@ -46,22 +44,28 @@ article .begin-examples ~ h2 + p {
 article .begin-examples ~ h3,
 article .begin-examples ~ p,
 article .begin-examples ~ .highlight {
-    width: 50%;
+    width: calc(100% / 3); /* Adjust width for three columns */
 }
 
 /* Left Column */
-article .begin-examples ~ h3,
-article .begin-examples ~ p {
+article .begin-examples ~ h3 {
     float: left;
     box-sizing: border-box;
     padding-right: 1rem;
-    clear: both;
+    clear: none; /* Clear removed */
+}
+
+article .begin-examples ~ p {
+    float: left; /* Added float */
+    box-sizing: border-box;
+    padding-right: 1rem;
+    clear: none; /* Clear removed */
 }
 
 /* Right Column */
 article .begin-examples ~ .highlight {
-    float: right;
-    clear: right;
+    float: left; /* Added float */
+    clear: none; /* Clear removed */
     margin-bottom: 1rem;
 }
 
@@ -79,18 +83,14 @@ article .end-examples ~ .highlight {
 }
 
 @media print, screen and (max-width: 580px) {
-
-/*----------------------------
-    Two column layout media
-  ---------------------------*/
-article .begin-examples ~ h3,
-article .begin-examples ~ p,
-article .begin-examples ~ .highlight {
-    width: 100%;
-    float: none;
-    clear: none;
-}
-
+    /* Three column layout media */
+    article .begin-examples ~ h3,
+    article .begin-examples ~ p,
+    article .begin-examples ~ .highlight {
+        width: 100%;
+        float: none;
+        clear: none;
+    }
 }
 
 
