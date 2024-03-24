@@ -1,5 +1,6 @@
 ---
-layout: index1
+layout: base
+title: index1
 ---
 
 KEK1

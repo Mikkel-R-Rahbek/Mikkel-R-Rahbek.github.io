@@ -1,5 +1,6 @@
 ---
-layout: index3
+layout: base
+title: index3
 ---
 
 KEK3
