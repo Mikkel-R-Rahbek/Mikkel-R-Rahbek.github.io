@@ -1,31 +1,22 @@
----
-layout: base
-title: Multi-column Layout
----
-
-<div class="multi-column-container">
-    <div class="multi-column-item">
-        <h2>Column 1</h2>
-        <p>This is the content for column 1.</p>
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <div class="magazine-layout">
+        <div class="column">
+            <h2>Article 1</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+        <div class="column">
+            <h2>Article 2</h2>
+            <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+        <div class="column">
+            <h2>Article 3</h2>
+            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
     </div>
-    <div class="multi-column-item">
-        <h2>Column 2</h2>
-        <p>This is the content for column 2.</p>
-    </div>
-    <div class="multi-column-item">
-        <h2>Column 3</h2>
-        <p>This is the content for column 3.</p>
-    </div>
-    <div class="multi-column-item">
-        <h2>Column 4</h2>
-        <p>This is the content for column 4.</p>
-    </div>
-    <div class="multi-column-item">
-        <h2>Column 5</h2>
-        <p>This is the content for column 5.</p>
-    </div>
-    <div class="multi-column-item">
-        <h2>Column 6</h2>
-        <p>This is the content for column 6.</p>
-    </div>
-</div>
+</body>
+</html>

@@ -1,14 +1,9 @@
-/* Define the multi-column layout */
-.multi-column-container {
-    column-count: 3; /* Number of columns */
-    column-gap: 20px; /* Gap between columns */
+.container {
+    column-count: 3; /* Adjust the number of columns as needed */
+    column-gap: 20px; /* Adjust the gap between columns as needed */
 }
 
-/* Style for the items inside the multi-column layout */
-.multi-column-item {
-    break-inside: avoid; /* Avoid breaking items across columns */
-    padding: 10px; /* Padding for each item */
-    margin-bottom: 10px; /* Margin between items */
-    background-color: #f0f0f0; /* Background color */
-    border: 1px solid #ccc; /* Border */
+.item {
+    break-inside: avoid; /* Prevent items from breaking across columns */
+    margin-bottom: 20px; /* Adjust the margin between items as needed */
 }
