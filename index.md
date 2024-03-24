@@ -15,6 +15,6 @@ title: My Single Page
     <div class="column">
         <h2>Column 3</h2>
         <p>This is the content for column 3.</p>
-        ![Alt text](/assets/figure.png)
+        ![Alt text](/home/mikkelhoe/Mikkel-R-Rahbek.github.io/assets/figure.png)
     </div>
 </div>
