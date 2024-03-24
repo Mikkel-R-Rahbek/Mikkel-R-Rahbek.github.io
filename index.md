@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Single Page
+title: Homepage
 ---
 
 <div class="container">
