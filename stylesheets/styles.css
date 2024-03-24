@@ -1,9 +1,10 @@
 .container {
-    display: flex; /* Use flexbox for layout */
+    display: flex;
+    justify-content: space-between;
 }
 
 .column {
-    flex: 1; /* Each column takes up equal space */
-    padding: 20px; /* Add padding for spacing */
-    border: 1px solid #ccc; /* Add borders for separation */
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ccc;
 }
