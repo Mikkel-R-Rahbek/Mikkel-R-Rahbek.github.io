@@ -10,6 +10,9 @@
 }
 
 .column-image {
-    max-width: 100%;
-    height: auto;
+    max-width: 100%; /* Maximum width relative to parent container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure the image is treated as a block-level element */
+    margin: 0 auto; /* Center the image horizontally */
+    /* Optionally, you can add additional styles as needed */
 }
