@@ -2,6 +2,12 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="styles.css">
+    <style>
+        .magazine-layout {
+            display: flex;
+            flex-wrap: wrap;
+        }
+    </style>
 </head>
 <body>
     <div class="magazine-layout">
