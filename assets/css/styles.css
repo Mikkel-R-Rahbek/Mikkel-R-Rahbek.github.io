@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    justify-content: space-between; /* Distribute columns evenly */
+}
+
+.column {
+    flex-basis: calc(33.33% - 20px); /* Set column width */
+    padding: 20px;
+    border: 1px solid #ccc;
+}
