@@ -15,6 +15,6 @@ title: My Single Page
     <div class="column">
         <h2>Column 3</h2>
         <p>This is the content for column 3.</p>
-        ![Alt text](./assets/figure.png)
+        <img src="./assets/figure.png" alt="Alt text">
     </div>
 </div>
