@@ -1,5 +1,5 @@
 ---
-layout: index1
+layout: index2
 ---
 
-KEK1
+KEK2
