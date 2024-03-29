@@ -6,7 +6,7 @@ title: Homepage
 <div class="container">
     <div class="column">
         <h2>The evolution of the Tenderloin district in San Fransisco </h2>
-        <p>The Tenderloin district was originally named after a similar district in New York city, and have been through multiple changes throughout the early 19th century until today in the 21st century. The district has often been a focul point for various counterculture movements and various activist groups </p>
+        <p>The Tenderloin district was originally named after a similar district in New York city, and have been through multiple changes throughout the early 19th century until today in the 21st century. The district has often been a focul point for various counterculture movements and various activist groups FF </p>
     </div>
     <div class="column">
         <h2>Column 2</h2>
