@@ -11,6 +11,7 @@ title: Homepage
     <div class="column">
         <h2>Column 2</h2>
         <p>This is the content for column 2.</p>
+        <iframe src="{{ site.baseurl }}/assets/bokeh_plot.html" width="600" height="400"></iframe>
     </div>
     <div class="column">
         <h2>Column 3</h2>
