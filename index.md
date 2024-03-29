@@ -16,6 +16,6 @@ title: Homepage
     <div class="column">
         <h2>Column 3</h2>
         <p>This is the content for column 3.</p>
-        <img src="./assets/figure.png" alt="Alt text" class="column-image">
+        <iframe src="{{ site.baseurl }}/assets/heatmap.html" width="600" height="400"></iframe>
     </div>
 </div>
