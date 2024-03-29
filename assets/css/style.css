@@ -1,7 +1,7 @@
 .container {
     display: flex;
     justify-content: space-between; /* Distribute columns evenly */
-    line-height: 0.1; /* Adjust the value as needed */
+    line-height: 0.2; /* Adjust the value as needed */
 }
 
 .column {
