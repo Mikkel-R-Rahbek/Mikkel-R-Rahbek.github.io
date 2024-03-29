@@ -11,11 +11,13 @@ title: Homepage
     <div class="column">
         <p>This is the content for column 2.</p>
         <iframe src="{{ site.baseurl }}/assets/bokeh_plot.html" width="600" height="400"></iframe>
+        <p>The figure is of the District Tenderloin, where it the data has been normalized, to better get an impression of the number of incidents for each focus crime</p>
+        <p>Tasdasdasdsa.</p>
     </div>
     <div class="column">
         <p>This is the content for column 3.</p>
         <iframe src="{{ site.baseurl }}/assets/heatmap.html" width="600" height="400"></iframe>
-        <p>This is a description of the figure.</p>
+        <p>The figure is a heatmap of all districts in San Fransisco where DRUG/NARCOTIC use is highlighted</p>
         <p>Tasdasdasdsa.</p>
     </div>
 </div>
