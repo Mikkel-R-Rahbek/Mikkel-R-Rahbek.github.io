@@ -31,6 +31,6 @@ Furthermore, the consistent number of arrests related to assault indicates that 
 This can also be seen by the rise of eviction rates highlighted by the Eviction Report indicating large upticks in evictions in the bay area, this is a sign of a declining neighboorhood where residents fail to make rent payments.
 It can also be seen that the crimes somewhat focuses at the Tenderloin district over times. Viewing the full map of San franciso it seems Drug/Nacrotic crimes move towards the neighboorhood. 
 This is in line with what can be seen in videos of the area, featuring large homeless encampments, open drug use and a stark lack of police intervention.</p>
-        <p>Today San Fransisco has done a lot to reduce drug consumption by both decriminalizing drug use, and investing into harm reduction facitilies ensuring free straws and foil for fentanyl use to reduce infection [NY Times](https://www.nytimes.com/2024/01/31/upshot/san-francisco-drug-crisis.html#:~:text=What%20San%20Francisco%20did%3A%20California's,for%20drug%20possession%20or%20use)</p>
+        <p>Today San Fransisco has done a lot to reduce drug consumption by both decriminalizing drug use, and investing into harm reduction facitilies ensuring free straws and foil for fentanyl use to reduce infection [NY Times](https://www.nytimes.com/2024/01/31/upshot/san-francisco-drug-crisis.html)</p>
     </div>
 </div>
