@@ -75,47 +75,26 @@ layout: default
     <p style="color:white">The story of BigFoot and how to find him</p>
     <br>
     <br>
-    <h2>IntroductionFGJHZ</h2>
+    <h2>Introdution</h2>
     <div>
         <p>
-            For the outside world San Francisco is a city that is known for its beautiful scenery, iconic landmarks and its unique Victorian architecture. The Golden Gate Bridge, Alcatraz Island, the Painted Ladies and the cable cars are just some of the many attractions that the city has to offer.
+        The legend of Bigfoot has long been etched into the tapestry of American folklore for centuries. The tall, hairy elusive creature is said to roam the vast territories of North America wilderness. The creature seems to always be one step ahead of hunters, always prowling in the blurry edge of a camera shot, howling in the darkness, scaring the dogs. 
+        The roots of the tale of Bigfoot can be linked to many other legends, however it was around the mid 20th century when the bigfoot fanbase truly exploded. With the advent of widespread media coverage, reports of Bigfoot sightings began to flood in from all corners of the continent. From the dense forests of the Pacific Northwest to the remote swamps of the American South, people claimed to have encountered this mysterious creature.
+        Armed with a lose understand of folklore and basic carpentry Ray L. Wallace kicked off the modern bigfoot legends still prevalent today. In 1958 Wallce created oversized footprints using a pair of carved wooden feet in the woods of california. He never did admit to the hoax but family came out after his death to clear up the mystery. Despite this many will swear on their life to have had an encounter with the creature, this is backed up by numerous reports with varying degrees of “evidence” <a href="https://www.nytimes.com/2003/01/03/us/search-for-bigfoot-outlives-the-man-who-created-him.html" target="_blank">Nytimes </a>[1]. Numerous times bigfoot sightings have been plagued by hoaxes, sparking controversy and interest in the community.<a href="https://books.google.dk/books?id=2RcqAAAAIBAJ&pg=PA3&dq=Bigfoot&article_id=6740,20897&hl=en&sa=X&ved=2ahUKEwjJrPr2seKFAxVdAxAIHUONCeM4FBDoAXoECAQQAg#v=onepage&q=Bigfoot&f=false" target="_blank">Dyers Dou </a>.[2]
         </p>
-    </div>
-    <div class="column">
-        <h4 align="center"> The Golden Gate Bridge </h4>
-        <img src="{{ site.baseurl }}/assets/images/g.png" alt="bridge" width="425" height="200">
-    </div>
-    <div class="column">
-        <h4 align="center"> The Painted Ladies (Alamo Square) </h4>
-        <img src="{{ site.baseurl }}/assets/images/g.png" alt="houses" width="360" height="200">
-        <br>
-    </div>
-    <div> 
-    <p>
-        However, underneath the surface San Francisco is a city that has been facing significant challenges in recent years. One of the most significant issues is the cleanliness of its streets. Keeping cities clean and safe is one of the most important and essential factors for the well-being of both residents and visitors.  Studies have shown that cleanliness of a city plays a critical role in maintaining the <a href="https://www.epowertrucks.co.uk/news/how-dirty-streets-are-affecting-the-environment-and-property-values-in-your-area/" target="_blank">public health</a> [1], promoting tourism and creating a safe and comfortable environment for everyone. On the other hand, when a city is dirty and filled with trash and waste, it negatively impacts the quality of life for all parties involved.
-        San Francisco is a city that has faced significant challenges regarding the cleanliness of its streets. They are often littered with loose garbage, bulky items, needles and even human faeces, which is both repulsive and unhealthy. Major news outlets in San Francisco, such as <a href="https://abc7news.com/sf-tourism-san-francisco-streets-international-travelers-conventions-in/12227886/" target="_blank"> ABC News</a> [2] and the <a href="https://www.sfchronicle.com/opinion/letterstotheeditor/article/sf-streets-are-not-safer-or-cleaner-17596059.php" target="_blank"> San Francisco Chronicle</a> [3], reported multiple stories around 2018 that highlighted this crucial problem. This has also given rise to Mayor London Breed to incorporate the "Clean Streets"-agenda into her <a href="https://londonformayor.com/policies/clean-streets-clean-city-2/" target="_blank">main campaign</a> [4].
-        Given the significant issue of dirtiness in San Francisco and its ongoing discussion and seriousness, this report aims at contributing to the understanding of the problem by analysing the government of San Francisco’s dataset (<a href="https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6" target="_blank">3-1-1 Cases</a>) of cases associated with Street Cleaning requests in the city.
-        <br>
-        In this way, we hypothesize that our report sheds light on especially two main issues: 
-        <ol type='1'>
-            <li>
-                Given the stories reported in 2018, are the dirty streets still a prevalent issue today in San Francisco? And if so what are some of the main reasons for and contributors to this?
-            </li>
-            <li>
-                News articles often focuses their attention to specific areas of the city. This project, however, also aims at elucidating if the problem is present throughout the city. In this way, we can answer if there are any specific areas that are more affected by the problem than others. And if so, what are the main reasons for this?
-            </li>
-        </ol>
-    </p>
     <h2>Our Dataset</h2>
     <p>
-        The dataset used for this project is the 311 Cases dataset made publicly available by the city's 311 Customer Service Center. The dataset contains non-emergency requests for service made by residents and visitors of San Francisco to the 311 Customer Service Center via  <a href="https://sf311.org/" target="_blank">phone calls, online submissions</a> [5] or mobile apps. The request types cover a wide range of issues, such as street and sidewalk cleaning, graffiti, abandoned vehicles and noise complaints. The dataset contains detailed information about each request, such as the date and time it was made, the location, the nature of the problem, and the status of the problem. The dataset is regularly updated to include the newest requests made, however we do not consider request made after the 30th of April. 
-        <br>
-        <br>
-        The full dataset contains over 6 million requests made from 2008 to 2023, but since we focus on the Street and Sidewalk cleaning requests the actual dataset of interest contains approximately 2 million requests. Due to the significant size of the dataset, we only include requests with a latitude and longitude position within the boundaries of San Francisco. Moreover, we made sure that request types are not duplicated, but instead sum up similar types to get a more accurate representation of the severeness of the type. This means that for example, we accumulate the request types "Human or Animal Waste" and "Human Waste" to get a more accurate representation of the number of requests regarding human waste. Lastly, we direct focus towards the 10 most frequent request types, which are hence also the types we deem most relevant for our analysis. We will refer to these as the main request types, and we will not consider tendencies in the other request types.
-        <br>
-        <br>
-        For a more hands-on inspection of the creation of this report, we have composed all findings in an explainer notebook, that can be found <a href="https://nbviewer.org/github/notaiax/SocialDataFinalProject/blob/master/coding/explainer_notebook.ipynb" target="_blank">here</a>.
+        These reports have been collected by the Bigfoot Research Organisation (BFRO), and later been compiled by users on Kaggle with added weather data based on location and temporal data. The dataset is relatively small with 5082 reports spanning from 1950 to 2023, it contains a detailed description of the encounters as well as geographical data. The reports are from all over the place and this article wishes to examine what patterns can be observed in bigfoot reportings.
     </p>
+        <div>
+        <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
+        <embed 
+            type="text/html" 
+            src="{{ site.baseurl }}/assets/images/bigfootwordclout.png"
+            width="1025"
+            height="550"
+            >
+    </div>
     <h2>The Dirtier Side of San Francisco: Increasing Demand for Street Cleaning</h2>
     <p>
         In 2018, <a href="https://www.youtube.com/watch?v=VEOkX9dp85I&ab_channel=NBCBayArea" target="_blank">NBC Bay Area</a> [6] conducted a thorough analysis about the cleanliness of San Francisco’s streets. They concluded that the cleanliness of San Francisco’s streets had deteriorated over time, and especially more severe issues like needles and animal waste were contributing to an image of San Francisco comparable to slums in developing countries. In this section, we start by attempting to track the number of cleaning requests in San Francisco to see if San Francisco's dirtiness has improved or worsened over the years. Given the possibility through the vast amount of data, we will attempt to track the number of cleaning requests per year, and see if there is a trend in the number of requests, and why that might be the case.
@@ -227,7 +206,7 @@ layout: default
     <a id="references" style="color:inherit; text-decoration: none !important;"><h2>References</h2></a>
     <ol type="1">
         <li>
-            <a href="https://www.epowertrucks.co.uk/news/how-dirty-streets-are-affecting-the-environment-and-property-values-in-your-area/" target="_blank"> How Dirty Streets Are Affecting The Environment And Property Values In Your Area </a>
+            <a href="https://www.nytimes.com/2003/01/03/us/search-for-bigfoot-outlives-the-man-who-created-him.html" target="_blank"> How Dirty Search for Bigfoot Outlives The Man Who Created Him </a>
         </li>
         <li>
             <a href="https://abc7news.com/sf-tourism-san-francisco-streets-international-travelers-conventions-in/12227886/" target="_blank"> ABC News article: SF's "dirty streets" hurting international tourism as conventions struggle to come back </a>
