@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: 3-1-1 - Street Cleaning Requests in San Francisco
-permalink: /project/
 ---
 
 <html>
