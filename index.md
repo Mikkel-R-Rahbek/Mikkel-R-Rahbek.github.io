@@ -23,7 +23,7 @@ title: The story of BigFoot and how to find him
         }
 		.column {
 			float: left;
-			width: 50%;
+			width: 80%;
 			padding: 10px;
 			box-sizing: border-box;
             text-align: center;
