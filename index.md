@@ -69,13 +69,13 @@ layout: default
 
 <body>
     <div class="city_life">
-        <img src="/SocialDataFinalProject/site_content/SF.gif" class="back-gif" alt="Messy">
+        <img src="{{ site.baseurl }}/assets/images/g.png" class="back-gif" alt="Messy">
     </div>
     <h1 class="page-title">{{ page.title }}</h1>
     <p style="color:white">The story of BigFoot and how to find him</p>
     <br>
     <br>
-    <h2>IntroductionFGJH</h2>
+    <h2>IntroductionFGJHZ</h2>
     <div>
         <p>
             For the outside world San Francisco is a city that is known for its beautiful scenery, iconic landmarks and its unique Victorian architecture. The Golden Gate Bridge, Alcatraz Island, the Painted Ladies and the cable cars are just some of the many attractions that the city has to offer.
@@ -83,11 +83,11 @@ layout: default
     </div>
     <div class="column">
         <h4 align="center"> The Golden Gate Bridge </h4>
-        <img src="/Mikkel-R-Rahbek.github.io/assets/images/g.png" alt="bridge" width="425" height="200">
+        <img src="{{ site.baseurl }}/assets/images/g.png" alt="bridge" width="425" height="200">
     </div>
     <div class="column">
         <h4 align="center"> The Painted Ladies (Alamo Square) </h4>
-        <img src="/SocialDataFinalProject/site_content/postcardRow.png" alt="houses" width="360" height="200">
+        <img src="{{ site.baseurl }}/assets/images/g.png" alt="houses" width="360" height="200">
         <br>
     </div>
     <div> 
@@ -127,7 +127,7 @@ layout: default
         <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
         <embed 
             type="text/html" 
-            src="/Mikkel-R-Rahbek.github.io/assets/images/timeSeriesPlot.html"
+            src="{{ site.baseurl }}/assets/images/timeSeriesPlot.html"
             width="1025"
             height="550"
             >
@@ -144,7 +144,7 @@ layout: default
         <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
         <embed 
             type="text/html" 
-            src="/Mikkel-R-Rahbek.github.io/assets/images/timeSeriesPlot.html"
+            src="{{ site.baseurl }}/assets/images/timeSeriesPlot.html"
             width="1025"
             height="550"
             >
@@ -163,7 +163,7 @@ layout: default
         <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
         <embed 
             type="text/html" 
-            src="/Mikkel-R-Rahbek.github.io/assets/images/timeSeriesPlot.html"
+            src="{{ site.baseurl }}/assets/images/timeSeriesPlot.html"
             width="1025"
             height="550"
             >
@@ -181,7 +181,7 @@ layout: default
         <h3>Figure 4: A Yearly District-Level Perspective on Street Cleaning Requests</h3>
         <embed 
             type="text/html" 
-            src="/SocialDataFinalProject/assets/images/SF_mapYearlyV2.html"
+            src="{{ site.baseurl }}/assets/images/timeSeriesPlot.html"
             width="1050"
             height="725"
             >
@@ -200,7 +200,7 @@ layout: default
         <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
         <embed 
             type="text/html" 
-            src="/Mikkel-R-Rahbek.github.io/assets/images/timeSeriesPlot.html"
+            src="{{ site.baseurl }}/assets/images/timeSeriesPlot.html"
             width="1025"
             height="550"
             >
