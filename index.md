@@ -96,13 +96,17 @@ title: The story of BigFoot and how to find him
             height="820"
             >
     </div>
-    <h2>The Dirtier Side of San Francisco: Increasing Demand for Street Cleaning</h2>
+    <h2>The history of Bigfoot</h2>
     <p>
         In 2018, <a href="https://www.youtube.com/watch?v=VEOkX9dp85I&ab_channel=NBCBayArea" target="_blank">NBC Bay Area</a> [6] conducted a thorough analysis about the cleanliness of San Francisco’s streets. They concluded that the cleanliness of San Francisco’s streets had deteriorated over time, and especially more severe issues like needles and animal waste were contributing to an image of San Francisco comparable to slums in developing countries. In this section, we start by attempting to track the number of cleaning requests in San Francisco to see if San Francisco's dirtiness has improved or worsened over the years. Given the possibility through the vast amount of data, we will attempt to track the number of cleaning requests per year, and see if there is a trend in the number of requests, and why that might be the case.
         <br>
         <br>
         In Figure 1, we show the total number of street cleaning requests from 2008 to 2022. From the figure, one recognizes that the number of cleaning requests is clearly increasing over time. Observing increasing numbers year by year contributes to a trend that is troubling for the city. Just in 15 years the number of requests has increased by more than tenfold to nearly 300,000. This is a significant increase, and it is therefore interesting to investigate why this could be the case.
     </p>
+    <audio controls>
+    <source src="{{ site.baseurl }}/assets/images/Bigfoot_sound.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
     <div>
         <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
         <embed 
