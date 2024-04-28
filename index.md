@@ -106,7 +106,7 @@ title: The story of BigFoot and how to find him
             type="text/html" 
             src="{{ site.baseurl }}/assets/images/bigfootwordclout.png"
             width="1025"
-            height="820"
+            height="780"
             >
     </div>
     <h2>The history of Bigfoot</h2>
@@ -126,7 +126,7 @@ It's intriguing to note that the viral dissemination of information is not a con
             type="text/html" 
             src="{{ site.baseurl }}/assets/images/BarChart.html"
             width="1025"
-            height="550"
+            height="600"
             >
     </div>
     <p>
