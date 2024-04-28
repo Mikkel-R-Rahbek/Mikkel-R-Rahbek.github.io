@@ -4,7 +4,9 @@ title: The story of BigFoot and how to find him
 ---
 
 <html>
-<head>   
+<head>  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
             font-family: Garamond, serif; /* Change the font family here */
@@ -21,7 +23,7 @@ title: The story of BigFoot and how to find him
         }
 		.column {
 			float: left;
-			width: 50%;
+			width: 70%;
 			padding: 10px;
 			box-sizing: border-box;
             text-align: center;
@@ -112,7 +114,7 @@ title: The story of BigFoot and how to find him
     <source src="{{ site.baseurl }}/assets/images/Bigfoot_sound.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
     </audio>
-    <div>
+    <div class = "column">
         <h3>Figure 2: The amount of Bigfoot reports each year </h3>
         <embed 
             type="text/html" 
