@@ -137,7 +137,7 @@ title: The story of BigFoot and how to find him
         <br>
         We do this in Figure 2, where we show a slideshow of images depicting some of the reported cases. This demonstrates that not all cases are frivolous, and implies that San Francisco does indeed face a severe problem with dirty streets. One could for example imagine the rareness of such occurences in a city such as Copenhagen, which has a very efficient waste management system.
     </p>
-    <div>
+    <div class="img">
         <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
         <embed 
             type="text/html" 
