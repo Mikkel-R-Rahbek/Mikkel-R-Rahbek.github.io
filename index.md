@@ -126,7 +126,7 @@ layout: default
     <div>
         <h3>Figure 1: San Francisco Street & Sidewalk Cleaning Requests</h3>
         <div class="center">
-        <iframe src="/SocialDataFinalProject/assets/images/BarChartV2.html" width="100%" height="500"></iframe>
+        <iframe src="/Mikkel-R-Rahbek.github.io/assets/images/BarChartV2.html" width="100%" height="500"></iframe>
         </div>
     </div>
     <p>
@@ -141,7 +141,7 @@ layout: default
         <h3>Figure 2: Examples of Requested Cleaning</h3>
         <embed 
             type="text/html" 
-            src="/SocialDataFinalProject/site_content/slideshow.html"
+            src="/Mikkel-R-Rahbek.github.io/site_content/slideshow.html"
             width="1050"
             height="520"
             >
@@ -160,7 +160,7 @@ layout: default
         <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
         <embed 
             type="text/html" 
-            src="/SocialDataFinalProject/assets/images/timeSeriesPlot.html"
+            src="/Mikkel-R-Rahbek.github.io/assets/images/timeSeriesPlot.html"
             width="1025"
             height="550"
             >
