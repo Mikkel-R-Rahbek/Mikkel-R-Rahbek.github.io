@@ -106,7 +106,7 @@ title: The story of BigFoot and how to find him
             type="text/html" 
             src="{{ site.baseurl }}/assets/images/bigfootwordclout.png"
             width="1025"
-            height="780"
+            height="800"
             >
     </div>
     <h2>The history of Bigfoot</h2>
@@ -160,7 +160,7 @@ It's intriguing to note that the viral dissemination of information is not a con
         Another interesting insight we gain from Figure 3 is related to the Human or Animal Waste and Needles categories. Right around 2018 where NBC Bay Area and other news outlets drew attention to the issue of dirty streets, we see a break and decrease in the requests related to these categories. This observation coincides with the reportings of specific measures being taken into action regarding the clean up of specifically these two somewhat more unpleasant categories <a href="https://www.sfchronicle.com/bayarea/article/SF-to-get-team-dedicated-to-clearing-used-needles-12858548.php" target="_blank">[9]</a><a href="https://www.sfaf.org/collections/status/getting-syringes-off-san-francisco-streets/" target="_blank">[10]</a>. This is a positive sign that the city is taking action to improve the situation, and it is interesting to see if this trend continues in the future.
     </p>
     <div>
-        <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
+        <h3>Figure 4: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
         <embed 
             type="text/html" 
             src="{{ site.baseurl }}/assets/images/timeSeriesPlot.html"
@@ -178,7 +178,7 @@ It's intriguing to note that the viral dissemination of information is not a con
         On the other hand, a suprising insight is that the Tenderloin and South of Market districts seem to be catching up with the dirty streets. In the years from approximately 2008 to 2019 these districts get as severe a number of requests as the Mission district. However, this has not been the case since 2019. This is contrary to what we would expect, as the Tenderloin and South of Market districts are often mentioned in the stories referenced among the most problematic districts. At first glance a positive sign, but a possible explanation could be that during the COVID-19 pandemic reportings in these areas have been less frequent as it coincides with the time where the pandemic hit the hardest. Nevertheless, this is just a hypothesis that could be investigated further, but is outside the scope of this report. On the other hand, another possible explanation is that the notable increase in the number of requests in the Mission district during the same period suggests a significant shift of requests towards that area. In other words, this implies that the problem may not have been resolved but rather relocated.
     </p>
     <div>
-        <h3>Figure 4: A Yearly District-Level Perspective on Street Cleaning Requests</h3>
+        <h3>Figure 5: A Yearly District-Level Perspective on Street Cleaning Requests</h3>
         <embed 
             type="text/html" 
             src="{{ site.baseurl }}/assets/images/timeSeriesPlot.html"
@@ -197,7 +197,7 @@ It's intriguing to note that the viral dissemination of information is not a con
         From Figure 5, we observe that the Mission district is still the district with the most incidents reported to the San Francisco Police Department. Moreover, we also observe that the Tenderloin and South of Market districts are not far behind. Hence, it seems that the three districts are indeed a trifecta of trouble, when we consider crime and street cleaning data. It is interesting to see that the correlation between crime incidents and street cleaning request is so strong. It shows a worrying sign that such populated and central areas of a city like San Francisco are the home of such a high number of crime incidents and street cleaning requests. Yet, it is well known that crime and poverty are closely related, and the three districts are also among the poorest districts in San Francisco, so the correlation between the two datasets might not be that surprising. But why is this the case? And what measures should the city take to solve the problem? Answering questions like these requires a more in-depth analysis that also includes social data about the demographics of the districts and other related factors that can help explain the problem. As mentioned related to Figure 4, the Mission district is widely known for its high homeless population, and this might be a factor that can help explain the problem. However, getting a more detailed answer to these questions is outside the scope of this report, but is definitely something that could be investigated further.
     </p>
     <div>
-        <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
+        <h3>Figure 6: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
         <embed 
             type="text/html" 
             src="{{ site.baseurl }}/assets/images/timeSeriesPlot.html"
