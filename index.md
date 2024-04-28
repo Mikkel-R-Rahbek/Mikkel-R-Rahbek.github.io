@@ -112,8 +112,11 @@ title: The story of BigFoot and how to find him
     <h2>The history of Bigfoot</h2>
     <p>
 Analyzing the frequency of reports per year reveals a noteworthy pattern, commencing around 1950 and marked by several significant peaks, notably in 1978 and during the period of 2003-2005. Preceding these peaks is often a notable bigfoot sighting that captures widespread attention in the media. This is reminiscent of the origins of the bigfoot legend, as elucidated by a New York Times article Nytimes. The piece details the revelation that the initial footprints were part of a prank that spiraled out of control, spawning a narrative unintended by its perpetrators.
+        <br>
 The surge in 1978 corresponds to numerous alleged sightings reported by Bob Stamps, who subsequently gained prominence as a purported bigfoot expert, appearing in various articles and radio broadcasts1 2. The most recent spike, however, stemmed from a deliberate hoax, involving two individuals attempting to sell a purported bigfoot corpse for $25,000, which was later exposed as a costume stored in a freezer, perpetuated by Dyers and Whitton. Dyers Dou.  
+        <br>
 This observation doesn't definitively affirm or debunk the existence of bigfoot; rather, it underscores a fascinating trend wherein bigfoot sightings tend to proliferate following widespread media coverage. This phenomenon may suggest heightened public interest in the subject, prompting more individuals to actively seek out potential sightings. Alternatively, it could indicate opportunists capitalizing on the hype, as exemplified by Dyers and Whitton's actions in 2003.
+        <br>
 It's intriguing to note that the viral dissemination of information is not a contemporary occurrence; rather, it has historically fueled further media attention and subsequent public fascination with the subject.
     </p>
     <audio controls>
@@ -138,10 +141,10 @@ It's intriguing to note that the viral dissemination of information is not a con
         We do this in Figure 2, where we show a slideshow of images depicting some of the reported cases. This demonstrates that not all cases are frivolous, and implies that San Francisco does indeed face a severe problem with dirty streets. One could for example imagine the rareness of such occurences in a city such as Copenhagen, which has a very efficient waste management system.
     </p>
     <div class="img">
-        <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
+        <h3>Figure 3:Counties</h3>
         <embed 
             type="text/html" 
-            src="{{ site.baseurl }}/assets/images/timeSeriesPlot.html"
+            src="{{ site.baseurl }}/assets/images/County.html"
             width="1025"
             height="550"
             >
