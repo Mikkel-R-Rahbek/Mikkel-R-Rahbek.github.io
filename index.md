@@ -69,7 +69,7 @@ layout: default
 
 <body>
     <div class="city_life">
-        <img src="{{ site.baseurl }}/assets/images/g.png" class="back-gif" alt="Messy">
+        <img src="{{ site.baseurl }}/assets/images/bigfootwalking.gif" class="back-gif" alt="Messy">
     </div>
     <h1 class="page-title">{{ page.title }}</h1>
     <p style="color:white">The story of BigFoot and how to find him</p>
