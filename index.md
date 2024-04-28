@@ -41,7 +41,7 @@ title: The story of BigFoot and how to find him
 			margin: 0 auto; /* center the image horizontally */
 		}
 		.column p {
-			width: 80%; /* set the width of the paragraph text to 80% of the column */
+			width: 100%; /* set the width of the paragraph text to 80% of the column */
 			margin: 0 auto; /* center the paragraph text horizontally */
             text-align: justify
 		}
@@ -82,7 +82,7 @@ title: The story of BigFoot and how to find him
 </head>
 
 <body>
-    <div class="city_life">
+    <div>
         <img src="{{ site.baseurl }}/assets/images/bigfootwalking.gif" class="back-gif" alt="Messy">
     </div>
     <h1 class="page-title">{{ page.title }}</h1>
