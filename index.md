@@ -72,7 +72,7 @@ layout: default
         <img src="/SocialDataFinalProject/site_content/SF.gif" class="back-gif" alt="Messy">
     </div>
     <h1 class="page-title">{{ page.title }}</h1>
-    <p style="color:white">A deep dive into the defilement of San Francisco</p>
+    <p style="color:white">The story of BigFoot and how to find him</p>
     <br>
     <br>
     <h2>Introduction</h2>
