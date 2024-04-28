@@ -75,7 +75,7 @@ layout: default
     <p style="color:white">The story of BigFoot and how to find him</p>
     <br>
     <br>
-    <h2>Introduction</h2>
+    <h2>IntroductionFG</h2>
     <div>
         <p>
             For the outside world San Francisco is a city that is known for its beautiful scenery, iconic landmarks and its unique Victorian architecture. The Golden Gate Bridge, Alcatraz Island, the Painted Ladies and the cable cars are just some of the many attractions that the city has to offer.
@@ -83,7 +83,7 @@ layout: default
     </div>
     <div class="column">
         <h4 align="center"> The Golden Gate Bridge </h4>
-        <img src="/SocialDataFinalProject/site_content/goldengate.jpg" alt="bridge" width="425" height="200">
+        <img src="/Mikkel-R-Rahbek.github.io/assets/images/g.png" alt="bridge" width="425" height="200">
     </div>
     <div class="column">
         <h4 align="center"> The Painted Ladies (Alamo Square) </h4>
