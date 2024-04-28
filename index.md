@@ -120,7 +120,7 @@ title: The story of BigFoot and how to find him
     <source src="{{ site.baseurl }}/assets/images/Bigfoot_sound.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
     </audio>
-    <div class = "column">
+    <div>
         <h3>Figure 2: The amount of Bigfoot reports each year </h3>
         <embed 
             type="text/html" 
