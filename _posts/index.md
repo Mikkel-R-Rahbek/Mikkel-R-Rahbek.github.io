@@ -266,12 +266,3 @@ layout: default
             <a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783" target="_blank">San Francisco Police Department Crime Incident Report from 2018 to present</a>
         </li>
     </ol>
-    <footer>
-        <p>
-            Click the link below to get a walkthrough of our data processing.
-            <br>
-            <a href="https://nbviewer.org/github/notaiax/SocialDataFinalProject/blob/master/coding/explainer_notebook.ipynb" target="_blank">NBViewer</a>
-            <br>
-            <a href="https://github.com/GustavHansen99/SocialDataFinalProject/" target="_blank">Github Repository</a>
-        </p>
-    </footer>
