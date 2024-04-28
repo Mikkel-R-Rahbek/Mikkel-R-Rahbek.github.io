@@ -23,12 +23,12 @@ title: The story of BigFoot and how to find him
         }
 		.column {
 			float: left;
-			width: 70%;
+			width: 50%;
 			padding: 10px;
 			box-sizing: border-box;
             text-align: center;
 		}
-            .column embed {
+         .column embed {
             max-width: 100%; /* Ensure images don't exceed the column width */
             height: auto; /* Allow images to adjust their height proportionally */
             display: block; /* Make sure images don't overflow horizontally */
