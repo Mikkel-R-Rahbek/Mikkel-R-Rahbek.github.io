@@ -93,7 +93,7 @@ title: The story of BigFoot and how to find him
         These reports have been collected by the Bigfoot Research Organisation (BFRO), and later been compiled by users on Kaggle with added weather data based on location and temporal data. The dataset is relatively small with 5082 reports spanning from 1950 to 2023, it contains a detailed description of the encounters as well as geographical data. The reports are from all over the place and this article wishes to examine what patterns can be observed in bigfoot reportings.
     </p>
         <div>
-        <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
+        <h3>Figure 1: Wordcloud made from Bigfoot report descriptions (2008-2023)</h3>
         <embed 
             type="text/html" 
             src="{{ site.baseurl }}/assets/images/bigfootwordclout.png"
@@ -113,10 +113,10 @@ title: The story of BigFoot and how to find him
     Your browser does not support the audio element.
     </audio>
     <div>
-        <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
+        <h3>Figure 2: The amount of Bigfoot reports each year </h3>
         <embed 
             type="text/html" 
-            src="{{ site.baseurl }}/assets/images/timeSeriesPlot.html"
+            src="{{ site.baseurl }}/assets/images/BarChart.html"
             width="1025"
             height="550"
             >
