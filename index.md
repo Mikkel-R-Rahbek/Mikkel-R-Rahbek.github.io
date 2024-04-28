@@ -124,10 +124,13 @@ layout: default
         In Figure 1, we show the total number of street cleaning requests from 2008 to 2022. From the figure, one recognizes that the number of cleaning requests is clearly increasing over time. Observing increasing numbers year by year contributes to a trend that is troubling for the city. Just in 15 years the number of requests has increased by more than tenfold to nearly 300,000. This is a significant increase, and it is therefore interesting to investigate why this could be the case.
     </p>
     <div>
-        <h3>Figure 1: San Francisco Street & Sidewalk Cleaning Requests</h3>
-        <div class="center">
-        <iframe src="/Mikkel-R-Rahbek.github.io/assets/images/BarChartV2.html" width="100%" height="500"></iframe>
-        </div>
+        <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
+        <embed 
+            type="text/html" 
+            src="/Mikkel-R-Rahbek.github.io/assets/images/timeSeriesPlot.html"
+            width="1025"
+            height="550"
+            >
     </div>
     <p>
         While we observe a significant increase in street cleaning requests from the citizens of San Francisco we must be wary in concluding that this can be solely attributed to the streets getting more and more dirty. The increase in requests is of course the principal proxy for dirty streets, but other factors such as the population growth of San Francisco might also affect the tendency. However, The San Francisco Standard recently reported a decline in the population from 2020 to 2022, which we would expect to observe in Figure 1, if the contribution of population estimates was significant <a href="https://sfstandard.com/research-data/san-francisco-bay-area-california-population-decline-census-pandemic-covid/" target="_blank">[7]</a>. Nonetheless, factors such as technology adoption, 311 service awareness, and many others must also be considered as contributing factors to the trend. 
@@ -138,12 +141,12 @@ layout: default
         We do this in Figure 2, where we show a slideshow of images depicting some of the reported cases. This demonstrates that not all cases are frivolous, and implies that San Francisco does indeed face a severe problem with dirty streets. One could for example imagine the rareness of such occurences in a city such as Copenhagen, which has a very efficient waste management system.
     </p>
     <div>
-        <h3>Figure 2: Examples of Requested Cleaning</h3>
+        <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
         <embed 
             type="text/html" 
-            src="/Mikkel-R-Rahbek.github.io/site_content/slideshow.html"
-            width="1050"
-            height="520"
+            src="/Mikkel-R-Rahbek.github.io/assets/images/timeSeriesPlot.html"
+            width="1025"
+            height="550"
             >
     </div>
     <h2>From Needles to Christmas Trees: Decoding San Francisco's Dirty Secrets</h2>
@@ -194,12 +197,12 @@ layout: default
         From Figure 5, we observe that the Mission district is still the district with the most incidents reported to the San Francisco Police Department. Moreover, we also observe that the Tenderloin and South of Market districts are not far behind. Hence, it seems that the three districts are indeed a trifecta of trouble, when we consider crime and street cleaning data. It is interesting to see that the correlation between crime incidents and street cleaning request is so strong. It shows a worrying sign that such populated and central areas of a city like San Francisco are the home of such a high number of crime incidents and street cleaning requests. Yet, it is well known that crime and poverty are closely related, and the three districts are also among the poorest districts in San Francisco, so the correlation between the two datasets might not be that surprising. But why is this the case? And what measures should the city take to solve the problem? Answering questions like these requires a more in-depth analysis that also includes social data about the demographics of the districts and other related factors that can help explain the problem. As mentioned related to Figure 4, the Mission district is widely known for its high homeless population, and this might be a factor that can help explain the problem. However, getting a more detailed answer to these questions is outside the scope of this report, but is definitely something that could be investigated further.
     </p>
     <div>
-        <h3>Figure 5: A Yearly District-Level Perspective on Crimes in San Francisco</h3>
+        <h3>Figure 3: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
         <embed 
             type="text/html" 
-            src="/SocialDataFinalProject/assets/images/SF_CrimemapYearlyV2.html"
-            width="1050"
-            height="725"
+            src="/Mikkel-R-Rahbek.github.io/assets/images/timeSeriesPlot.html"
+            width="1025"
+            height="550"
             >
     </div>
     <h2>Concluding Thoughts</h2>
