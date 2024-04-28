@@ -69,8 +69,13 @@ title: The story of BigFoot and how to find him
 </head>
 
 <body>
-    <div class="city_life">
-        <img src="{{ site.baseurl }}/assets/images/bigfootwalking.gif" class="back-gif" alt="Messy">
+    <div>
+            <embed 
+            type="text/html" 
+            src="{{ site.baseurl }}/assets/images/bigfootwalking.gif"
+            width="1025"
+            height="820"
+            >
     </div>
     <h1 class="page-title">{{ page.title }}</h1>
     <p style="color:white">The story of BigFoot and how to find him</p>
