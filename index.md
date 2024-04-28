@@ -75,7 +75,7 @@ layout: default
     <p style="color:white">The story of BigFoot and how to find him</p>
     <br>
     <br>
-    <h2>IntroductionFG</h2>
+    <h2>IntroductionFGJ</h2>
     <div>
         <p>
             For the outside world San Francisco is a city that is known for its beautiful scenery, iconic landmarks and its unique Victorian architecture. The Golden Gate Bridge, Alcatraz Island, the Painted Ladies and the cable cars are just some of the many attractions that the city has to offer.
