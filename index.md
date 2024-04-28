@@ -4,7 +4,12 @@ title: The story of BigFoot and how to find him
 ---
 
 <html>
-<head>
+<head>   
+    <style>
+        body {
+            font-family: Garamond, serif; /* Change the font family here */
+        }
+    </style>
 	<style>
         .page-title {
             color: white;
