@@ -1,5 +1,6 @@
 ---
 layout: default
+title: The story of BigFoot and how to find him
 ---
 
 <html>
