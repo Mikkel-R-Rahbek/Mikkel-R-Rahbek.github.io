@@ -92,7 +92,7 @@ layout: default
             type="text/html" 
             src="{{ site.baseurl }}/assets/images/bigfootwordclout.png"
             width="1025"
-            height="550"
+            height="1025"
             >
     </div>
     <h2>The Dirtier Side of San Francisco: Increasing Demand for Street Cleaning</h2>
