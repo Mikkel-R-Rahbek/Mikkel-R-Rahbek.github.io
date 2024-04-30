@@ -113,9 +113,12 @@ title: The story of BigFoot and how to find him
     <p>
 Analyzing the frequency of reports per year reveals a noteworthy pattern, commencing around 1950 and marked by several significant peaks, notably in 1978 and during the period of 2003-2005. Preceding these peaks is often a notable bigfoot sighting that captures widespread attention in the media. This is reminiscent of the origins of the bigfoot legend, as elucidated by a New York Times article Nytimes. The piece details the revelation that the initial footprints were part of a prank that spiraled out of control, spawning a narrative unintended by its perpetrators.
         <br>
+            <br>
 The surge in 1978 corresponds to numerous alleged sightings reported by Bob Stamps, who subsequently gained prominence as a purported bigfoot expert, appearing in various articles and radio broadcasts1 2. The most recent spike, however, stemmed from a deliberate hoax, involving two individuals attempting to sell a purported bigfoot corpse for $25,000, which was later exposed as a costume stored in a freezer, perpetuated by Dyers and Whitton. Dyers Dou.  
         <br>
+        <br>
 This observation doesn't definitively affirm or debunk the existence of bigfoot; rather, it underscores a fascinating trend wherein bigfoot sightings tend to proliferate following widespread media coverage. This phenomenon may suggest heightened public interest in the subject, prompting more individuals to actively seek out potential sightings. Alternatively, it could indicate opportunists capitalizing on the hype, as exemplified by Dyers and Whitton's actions in 2003.
+        <br>
         <br>
 It's intriguing to note that the viral dissemination of information is not a contemporary occurrence; rather, it has historically fueled further media attention and subsequent public fascination with the subject.
     </p>
@@ -133,12 +136,13 @@ It's intriguing to note that the viral dissemination of information is not a con
             >
     </div>
     <p>
-        While we observe a significant increase in street cleaning requests from the citizens of San Francisco we must be wary in concluding that this can be solely attributed to the streets getting more and more dirty. The increase in requests is of course the principal proxy for dirty streets, but other factors such as the population growth of San Francisco might also affect the tendency. However, The San Francisco Standard recently reported a decline in the population from 2020 to 2022, which we would expect to observe in Figure 1, if the contribution of population estimates was significant <a href="https://sfstandard.com/research-data/san-francisco-bay-area-california-population-decline-census-pandemic-covid/" target="_blank">[7]</a>. Nonetheless, factors such as technology adoption, 311 service awareness, and many others must also be considered as contributing factors to the trend. 
+        While we observe a significant increase in street cleaning requests from the citizens of San Francisco we must be wary in concluding that this can be solely attributed to the streets getting more and more dirty. The increase in requests is of course the principal proxy for dirty streets, but other factors such as the population growth of San Francisco might also affect the tendency. However, The San Francisco Standard recently reported a decline in the population from 2020 to 2022, which we would expect to observe in Figure 2, if the contribution of population estimates was significant <a href="https://sfstandard.com/research-data/san-francisco-bay-area-california-population-decline-census-pandemic-covid/" target="_blank">[7]</a>. Nonetheless, factors such as technology adoption, 311 service awareness, and many others must also be considered as contributing factors to the trend. 
+        <br>
         <br>
         In particular, it is interesting to reflect on the fact that in 2008 the iPhone was introduced only 6 months earlier, and the first Android phone was not released until 2009. Fast-forward to today where almost every citizen has a smartphone, and it is much easier to report issues to the 311 Customer Service Center <a href="https://www.statista.com/statistics/201182/forecast-of-smartphone-users-in-the-us/" target="_blank">[8]</a>. This could be a contributing factor to the increase in requests, but it is difficult to quantify the effect of this. This and many other factors as mentioned above are interesting to investigate. Nevertheless, by visually inspecting request tickets we can still get a good idea of the severity of the problem. 
         <br>
         <br>
-        We do this in Figure 2, where we show a slideshow of images depicting some of the reported cases. This demonstrates that not all cases are frivolous, and implies that San Francisco does indeed face a severe problem with dirty streets. One could for example imagine the rareness of such occurences in a city such as Copenhagen, which has a very efficient waste management system.
+        We do this in Figure 3, where we show a slideshow of images depicting some of the reported cases. This demonstrates that not all cases are frivolous, and implies that San Francisco does indeed face a severe problem with dirty streets. One could for example imagine the rareness of such occurences in a city such as Copenhagen, which has a very efficient waste management system.
     </p>
     <div class="img">
         <h3>Figure 3:Counties</h3>
