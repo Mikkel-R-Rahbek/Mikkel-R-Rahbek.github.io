@@ -5,7 +5,7 @@ title: Homepage
 
 <div class="container">
     <div class="column">
-        <h2>The evolution of the Tenderloin district in San FransiscoFFF </h2>
+        <h2>The evolution of the Tenderloin district in San Fransisco </h2>
         <p>The Tenderloin district, originally named after a similar area in New York City, has undergone numerous transformations from the early 19th century to the present day in the 21st century. Throughout its history, the district has served as a focal point for various counterculture movements and activist groups, resulting in a diverse population representing a wide range of cultures.
 However, over the years, the district has faced significant economic challenges. The tech boom caused rents to skyrocket, displacing many lower-income residents from their apartments and exacerbating issues such as poverty, homelessness, drug addiction, and crime. Furthermore, the limited investment in the district has contributed to its decline.
 Data for visualization purposes is sourced from the San Francisco Police Department, documenting incidents across various crime categories from 2003 to 2017. </p>
