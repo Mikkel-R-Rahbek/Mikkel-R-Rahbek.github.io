@@ -82,9 +82,6 @@ title: The story of BigFoot and how to find him
 </head>
 
 <body>
-    <div>
-        <img src="{{ site.baseurl }}/assets/images/bigfootwalking.gif" class="back-gif" alt="Messy">
-    </div>
     <h1 class="page-title">{{ page.title }}</h1>
     <p style="color:white">The story of BigFoot and how to find him</p>
     <br>
@@ -104,7 +101,7 @@ title: The story of BigFoot and how to find him
         <h3>Figure 1: Wordcloud made from Bigfoot report descriptions (2008-2023)</h3>
         <embed 
             type="text/html" 
-            src="{{ site.baseurl }}/assets/images/bigfootwordclout.png"
+            src="{{ site.baseurl }}/SocialDataFinal/assets/images/bigfootwordclout.png"
             width="1025"
             height="800"
             >
@@ -123,14 +120,14 @@ This observation doesn't definitively affirm or debunk the existence of bigfoot;
 It's intriguing to note that the viral dissemination of information is not a contemporary occurrence; rather, it has historically fueled further media attention and subsequent public fascination with the subject.
     </p>
     <audio controls>
-    <source src="{{ site.baseurl }}/assets/images/Bigfoot_sound.mp3" type="audio/mpeg">
+    <source src="{{ site.baseurl }}/SocialDataFinal/assets/images/Bigfoot_sound.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
     </audio>
     <div>
         <h3>Figure 2: The amount of Bigfoot reports each year </h3>
         <embed 
             type="text/html" 
-            src="{{ site.baseurl }}/assets/images/BarChart.html"
+            src="{{ site.baseurl }}/SocialDataFinal/assets/images/BarChart.html"
             width="1025"
             height="600"
             >
@@ -148,7 +145,7 @@ It's intriguing to note that the viral dissemination of information is not a con
         <h3>Figure 3:Counties</h3>
         <embed 
             type="text/html" 
-            src="{{ site.baseurl }}/assets/images/County.html"
+            src="{{ site.baseurl }}/SocialDataFinal/assets/images/County.html"
             width="1025"
             height="550"
             >
@@ -167,7 +164,7 @@ It's intriguing to note that the viral dissemination of information is not a con
         <h3>Figure 4: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
         <embed 
             type="text/html" 
-            src="{{ site.baseurl }}/assets/images/timeSeriesPlot.html"
+            src="{{ site.baseurl }}/SocialDataFinal/assets/images/timeSeriesPlot.html"
             width="1025"
             height="550"
             >
@@ -185,7 +182,7 @@ It's intriguing to note that the viral dissemination of information is not a con
         <h3>Figure 5: A Yearly District-Level Perspective on Street Cleaning Requests</h3>
         <embed 
             type="text/html" 
-            src="{{ site.baseurl }}/assets/images/timeSeriesPlot.html"
+            src="{{ site.baseurl }}/SocialDataFinal/assets/images/timeSeriesPlot.html"
             width="1050"
             height="725"
             >
@@ -204,7 +201,7 @@ It's intriguing to note that the viral dissemination of information is not a con
         <h3>Figure 6: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
         <embed 
             type="text/html" 
-            src="{{ site.baseurl }}/assets/images/timeSeriesPlot.html"
+            src="{{ site.baseurl }}/SocialDataFinal/assets/images/timeSeriesPlot.html"
             width="1025"
             height="550"
             >
